@@ -13,8 +13,9 @@ Your feedback and suggestions are always welcome. Thank You!
 ## LeetCode Stats
 
 Rank: **2,202,584**
-Solved: **18**
 
-- **Hard:** ![Hard](https://via.placeholder.com/15/FF0000/000000?text=+) 1
+Solved: **19**
+
+- **Hard:** ![Hard](https://via.placeholder.com/15/FF0000/000000?text=+) 2
 - **Medium:** ![Medium](https://via.placeholder.com/15/FFD700/000000?text=+) 6
 - **Easy:** ![Easy](https://via.placeholder.com/15/008000/000000?text=+) 11
