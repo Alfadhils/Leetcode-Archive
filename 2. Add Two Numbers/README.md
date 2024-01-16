@@ -1,12 +1,14 @@
-# Intuition
+# 2. Add Two Numbers
+
+## Intuition
 
 The problem involves adding two numbers represented as linked lists. My initial intuition is to simulate the process of adding numbers, keeping track of the carry, and constructing a new linked list to store the result.
 
-# Approach
+## Approach
 
 The approach is to iterate through the linked lists simultaneously, adding corresponding digits along with any carry from the previous step. We use a dummy node to simplify the code and keep track of the current node in the result linked list. The carry is updated for each step, and the result is stored in a new linked list.
 
-# Complexity
+## Complexity
 
 - Time complexity:
 
@@ -16,7 +18,7 @@ The time complexity of this solution is O(max(m, n)), where m and n are the leng
 
 The space complexity is O(max(m, n)), where m and n are the lengths of the input linked lists. This is because we create a new linked list to store the result, and the length of the result can be at most max(m, n) + 1.
 
-# Code
+## Code
 
 ```python
 # Definition for singly-linked list.
@@ -42,7 +44,7 @@ class Solution:
                 l1 = l1.next
             if l2 is not None:
                 l2 = l2.next
-    
+  
             curr = curr.next 
 
         if carry > 0:
