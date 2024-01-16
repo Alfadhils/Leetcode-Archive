@@ -12,10 +12,12 @@ Your feedback and suggestions are always welcome. Thank You!
 
 ## LeetCode Stats
 
-Rank: **1,612,190**
+Link : [Alfadhil](https://leetcode.com/user8794XI/)
 
-Solved: **36**
+Rank: **1,208,150**
 
-- **Hard:** ![Hard](https://via.placeholder.com/15/FF0000/000000?text=+) 3
-- **Medium:** ![Medium](https://via.placeholder.com/15/FFD700/000000?text=+) 13
-- **Easy:** ![Easy](https://via.placeholder.com/15/008000/000000?text=+) 20
+Solved: **55**
+
+- **Hard:** ![Hard](https://via.placeholder.com/15/FF0000/000000?text=+) 5
+- **Medium:** ![Medium](https://via.placeholder.com/15/FFD700/000000?text=+) 22
+- **Easy:** ![Easy](https://via.placeholder.com/15/008000/000000?text=+) 28
