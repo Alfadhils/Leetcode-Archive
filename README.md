@@ -11,6 +11,7 @@ This is my LeetCode practice archive repo! This repo consist of a meticulously c
 Your feedback and suggestions are always welcome. Thank You!
 
 ## LeetCode Stats
+Last Updated : **16/01/2023**
 
 Link : [Alfadhil](https://leetcode.com/user8794XI/)
 
