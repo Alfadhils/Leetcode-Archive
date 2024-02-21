@@ -15,10 +15,10 @@ Last Updated : **27/01/2023**
 
 Link : [Alfadhil](https://leetcode.com/user8794XI/)
 
-Rank: **984,216**
+Rank: **742.398**
 
-Solved: **74**
+Solved: **111**
 
-- **Hard:** ![Hard](https://via.placeholder.com/15/FF0000/000000?text=+) 6
-- **Medium:** ![Medium](https://via.placeholder.com/15/FFD700/000000?text=+) 36
-- **Easy:** ![Easy](https://via.placeholder.com/15/008000/000000?text=+) 32
+- **Hard:** ![Hard](https://via.placeholder.com/15/FF0000/000000?text=+) 12
+- **Medium:** ![Medium](https://via.placeholder.com/15/FFD700/000000?text=+) 57
+- **Easy:** ![Easy](https://via.placeholder.com/15/008000/000000?text=+) 42
