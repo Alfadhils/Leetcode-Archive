@@ -11,14 +11,14 @@ This is my LeetCode practice archive repo! This repo consist of a meticulously c
 Your feedback and suggestions are always welcome. Thank You!
 
 ## LeetCode Stats
-Last Updated : **27/02/2024**
+Last Updated : **08/03/2024**
 
 Link : [Alfadhil](https://leetcode.com/user8794XI/)
 
-Rank: **706.799**
+Rank: **652.188**
 
-Solved: **117**
+Solved: **129**
 
 - **Hard:** ![Hard](https://via.placeholder.com/15/FF0000/000000?text=+) 14
-- **Medium:** ![Medium](https://via.placeholder.com/15/FFD700/000000?text=+) 58
-- **Easy:** ![Easy](https://via.placeholder.com/15/008000/000000?text=+) 45
+- **Medium:** ![Medium](https://via.placeholder.com/15/FFD700/000000?text=+) 65
+- **Easy:** ![Easy](https://via.placeholder.com/15/008000/000000?text=+) 50
